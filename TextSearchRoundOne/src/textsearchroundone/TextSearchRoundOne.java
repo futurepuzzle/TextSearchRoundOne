@@ -3,10 +3,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package textsearchroundone;
-
+import java.util.*;
 /**
  *
- * @author 
+ * @author Tristan/Fox
+ * This is the driver class for the text search program
  */
 public class TextSearchRoundOne {
 
@@ -15,6 +16,8 @@ public class TextSearchRoundOne {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Starting TEXTSEARCH application");
+        
     }
     
 }
